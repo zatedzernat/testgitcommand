@@ -1,0 +1,31 @@
+p {
+    font-size: 18px;
+}
+h2 {
+    color: goldenrod;
+    text-align: center;
+}
+.in {
+    color: purple;
+font-size: 24px;
+font-weight: bold;
+}
+.name{
+color:blue;
+font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    background-image: url("sky2.jpg");
+}
+
+body {
+    background-color: rgba(107, 161, 241, 0.479);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
